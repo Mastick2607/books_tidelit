@@ -215,6 +215,7 @@ Caché de Listas: Almacenar la lista completa de libros (/api/books) y sus ratin
 - Cálculo de Rating Eficiente: El promedio de calificación (average_rating) se calcula en el BookRepository con la función de agregación AVG(). En el BookService, se utiliza un operador ternario para convertir los valores NULL (devueltos por AVG() cuando un libro no tiene reseñas) a un entero 0.
 
 # Video evidencia:
+https://drive.google.com/file/d/1toonhL6aLYNcEUlLpeP9XvWSD1k5CTbI/view?usp=drive_link
 ## branch evaluado y commit final:
 - main
 
