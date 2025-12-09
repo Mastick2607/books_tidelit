@@ -26,7 +26,6 @@ Este proyecto es la solución técnica para el desafío de desarrollo Full-Stack
 
 ```bash
   git clone https://github.com/Mastick2607/books_tidelit.git
-  cd xxxxxxxxxxx
   code . //para abrir el proyecto y luego pararse en la rama main, luego parate dentro de la carpeta backend: ../backend
 ```
 
