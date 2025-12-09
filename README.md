@@ -187,10 +187,15 @@ npx expo start -c te proporciona, asi podras ver en tiempo real la app movil en 
 ```
 
 #  Captura o curl que muestre el endpoint funcionando
-
+https://github.com/Mastick2607/books_tidelit/blob/main/Captura%20de%20peticion%20get%20libros%20con%20cmbios.PNG?raw=true
+https://github.com/Mastick2607/books_tidelit/blob/main/Captura%20de%20peticion%20get%20libros.PNG?raw=true
+https://github.com/Mastick2607/books_tidelit/blob/main/Captura%20de%20peticion%20post%20de%20los%20reviews.PNG?raw=true
 
 
 # Respuestas esperadas ante errores de validación.
+https://github.com/Mastick2607/books_tidelit/blob/main/validacion%20de%20book_id.PNG?raw=true
+https://github.com/Mastick2607/books_tidelit/blob/main/validacion%20de%20comentario.PNG?raw=true
+https://github.com/Mastick2607/books_tidelit/blob/main/validacion%20de%20rango.PNG?raw=true
 
 
 ## ¿Qué cambiarías para escalar esta app a cientos de miles de libros y usuarios?
